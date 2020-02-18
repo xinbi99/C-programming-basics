@@ -1,2 +1,2 @@
 # C-programming-basics
-Basic string operations and passing arrays to functions
+Manages several data types, data structures and arrays including translating string literals to binary, rounding numbers, string formatting etc..
